@@ -1,0 +1,28 @@
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+table{
+    border: 2px solid burlywood;
+    border-radius: 5px;
+    padding: 5px;
+    font-size-adjust: inherit;
+}
+
+th,td{
+  border: 1px solid blanchedalmond;
+  padding: 20px;
+}
+
+input{
+    border-radius: 10px;
+    height: 20px;
+    width: 90px;
+    font-size: 12px;
+    text-align: center;
+}
+
+span.invisible{
+    visibility:hidden
+}
